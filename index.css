@@ -15,8 +15,8 @@ sidebar {
     justify-content: flex-start;
     flex-direction: row;
     border: 5px solid black;
-    width: 50vw;
-    height: 150vh;
+    width: 50px;
+    height: 150px;
 }
 
 .title {
